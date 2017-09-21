@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria&#39;s Data Science Blog</title>
+    <link>/</link>
+    <description>Recent content on Maria&#39;s Data Science Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter Plots</title>
+      <link>/post/scatter-plots/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scatter-plots/</guid>
+      <description>library(ggplot2) Let’s generate some random points:
+x&amp;lt;-rnorm(100,2,5) y&amp;lt;-rnorm(100,2*x+1,2) x ## [1] 4.71768462 -0.86439279 3.98850695 -3.60387883 6.89278597 ## [6] 8.73787789 6.31986234 6.08212526 2.65986547 0.24679204 ## [11] 0.01805559 -7.46288986 2.14225945 0.06082611 0.66155747 ## [16] 4.97265654 -11.88513063 -0.21518173 4.09561562 6.11013432 ## [21] -1.31157614 0.30198688 -7.22312070 2.53875774 -1.54634944 ## [26] 2.37120356 -7.41104710 -1.30058754 2.14937820 -3.16094638 ## [31] -4.17155862 0.65284811 3.87692185 -0.23117370 -5.53872828 ## [36] 6.77613882 -6.86194703 1.54337657 -1.10581067 -3.57294123 ## [41] 5.31652317 -0.69434839 1.82319816 -1.</description>
+    </item>
+    
+  </channel>
+</rss>
